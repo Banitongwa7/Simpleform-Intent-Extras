@@ -1,2 +1,2 @@
 # Simpleform-Intent-Extras
-Exercise Android.
+Android App
